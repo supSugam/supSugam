@@ -1,48 +1,17 @@
-<h2 align="left">Hi 👋! I'm Sugam.</h2>
+<h2> Hi, I'm Sugam Subedi 👋 </h2>
+<h4>A fullstack developer (self-claimed) based on Pokhara, Nepal, I like to build things that solves my problem or maybe someone else's too.</h4>
 
-###
+<h4><strong>I identify myself as: </strong> an IT Graduate (Soon) • FullStack Developer • Dev Blogger • Tech Enthusiast • Avid Learner.</h4>
 
+<h4>
+<code>if</code> you want to have a better look at my projects, experience, blogs, resume or want to connect, please visit <strong><a style="font-size:36px !important;" href="https://sugamsubedi.com.np" target="_blank">My Portfolio Website</a></strong>
+<code>else</code> just continue what you were doing!
+</h4>
+</br>
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=supSugam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supSugam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supSugam&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" align="right"/>
 </div>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/108080917"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
-
-###
 
 <br clear="both">
 
@@ -52,4 +21,3 @@
   <img src="https://profile-counter.glitch.me/supSugam/count.svg?"  />
 </div>
 
-###
