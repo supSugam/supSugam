@@ -1,7 +1,4 @@
-<h2> Hi, I'm Sugam Subedi 👋 </h2>
-<h4>A fullstack developer (self-claimed) based on Pokhara, Nepal, I like to build things that solves my problem or maybe someone else's too.</h4>
-
-<h4><strong>I identify myself as: </strong> an IT Graduate (Soon) • FullStack Developer • Dev Blogger • Tech Enthusiast • Avid Learner.</h4>
+<h2> Hi, I'm Sugam Subedi </h2>
 
 <h4>
 <code>if</code> you want to have a better look at my projects, experience, blogs, resume or want to connect, please visit <strong><a style="font-size:36px !important;" href="https://sugamsubedi.com.np" target="_blank">My Portfolio Website</a></strong>
